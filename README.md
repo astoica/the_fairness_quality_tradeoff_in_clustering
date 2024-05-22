@@ -7,7 +7,7 @@ This repository contains the data and code for the paper "The Fairness-Quality T
 - Adult dataset: `data/adult.csv`
 - Census dataset: `data/subsampled_census1990.csv`
 - BlueBike dataset: `data/bluebikedata_201501_binarygender.csv`
-  Note: the Census dataset has been subsampled as per 'Fair Clustering under a Bounded Cost' paper methodology (https://proceedings.neurips.cc/paper_files/paper/2021/hash/781877bda0783aac5f1cf765c128b437-Abstract.html); the BlueBike dataset has been processed to remove the (few) rows with unknown gender.
+*Note: the Census dataset has been subsampled as per 'Fair Clustering under a Bounded Cost' paper methodology (https://proceedings.neurips.cc/paper_files/paper/2021/hash/781877bda0783aac5f1cf765c128b437-Abstract.html); the BlueBike dataset has been processed to remove the (few) rows with unknown gender.*
 
 ### Code: 
 - Algorithm 1: `pareto_curve_alg1.py`
