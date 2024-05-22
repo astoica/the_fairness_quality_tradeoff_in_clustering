@@ -12,7 +12,7 @@ This repository contains the data and code for the paper "The Fairness-Quality T
 ### Code: 
 - Algorithm 1: `pareto_curve_alg1.py`
 - Algorithm 2: `repeated_FCBC_grouputil_alg2.py` for the Group Utilitarian objective and `repeated_FCBC_groupegalit_alg2.py` for the Group Egalitarian objective.
-- Plots: generate_plots_paretofront_fig1.py and generate_plots_paretofront_fig2.py
+- Plots: `generate_plots_paretofront_fig1.py` and `generate_plots_paretofront_fig2.py`
 Note: edit the `.py` files to run Algorithms 1 and 2 on subsamples of the dataset, for different fairness objectives.
 
 ### Other files: 
